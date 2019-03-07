@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "name": "com.kcchen.lambda",
+    "version": "1.0.3",
+    "description": "lambda support (JDK 8) for Android",
+    "cordova": {
+        "id": "com.kcchen.lambda",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "cordova",
+        "lambda",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "author": "KC Chen",
+    "license": "MIT"
+}
