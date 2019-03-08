@@ -1,7 +1,6 @@
 Cordova Lambda Plugin
 ==================
 
-[![NPM version](http://img.shields.io/npm/v/com.darktalker.cordova.screenshot.svg?style=flat)](https://www.npmjs.com/package/com.darktalker.cordova.screenshot)
 
 
 The Cordova Lambda Plugin is to prevent error, if your Android code using JAVA 8.
